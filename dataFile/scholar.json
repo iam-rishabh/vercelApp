@@ -1,0 +1,1631 @@
+{
+  "search_metadata": {
+    "id": "67da844cb0ff9d152aeea0bb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/81cd5a4658574d9d/67da844cb0ff9d152aeea0bb.json",
+    "created_at": "2025-03-19 08:46:04 UTC",
+    "processed_at": "2025-03-19 08:46:04 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=KLDQnqUAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+    "raw_html_file": "https://serpapi.com/searches/81cd5a4658574d9d/67da844cb0ff9d152aeea0bb.html",
+    "total_time_taken": 0.14
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "KLDQnqUAAAAJ",
+    "hl": "en",
+    "num": "100",
+    "sort": "pubdate"
+  },
+  "author": {
+    "name": "Dr. Vishal Sorathiya (World's Top 2% Scientist 2023,2024)",
+    "affiliations": "Assistant Professor, Faculty of Engineering and Technology, Parul University",
+    "email": "Verified email at paruluniversity.ac.in",
+    "interests": [
+      {
+        "title": "Photonics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:photonics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aphotonics"
+      },
+      {
+        "title": "MIMO antenna",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mimo_antenna",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amimo_antenna"
+      },
+      {
+        "title": "Graphene",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:graphene",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agraphene"
+      },
+      {
+        "title": "Borophene",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:borophene",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aborophene"
+      },
+      {
+        "title": "MXene",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mxene",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amxene"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KLDQnqUAAAAJ&citpid=10"
+  },
+  "articles": [
+    {
+      "title": "A numerical approach for optimizing ultrawideband absorber performance with MXene multilayer metamaterials for solar engineering applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:BrmTIyaxlBUC",
+      "citation_id": "KLDQnqUAAAAJ:BrmTIyaxlBUC",
+      "authors": "JM Ngobeh, V Sorathiya, T Altameem, W El-Shafai, C Jani",
+      "publication": "Applied Physics A 131 (4), 232, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "A Computational Study for Graphene-Based Metasurface Polarizer for Far Infrared Frequency Spectrum–Based Application",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:eflP2zaiRacC",
+      "citation_id": "KLDQnqUAAAAJ:eflP2zaiRacC",
+      "authors": "Z Sbeah, V Sorathiya, T Altameem, W El-Shafai",
+      "publication": "Plasmonics, 1-15, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Different mode operations based all optical fiber amplifiers with optical differential polarization quadrature phase shift keying transmitter",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:lSLTfruPkqcC",
+      "citation_id": "KLDQnqUAAAAJ:lSLTfruPkqcC",
+      "authors": "ANZ Rashed, BR Altahan, T Manasavenna, G Shanmugapriya, PP Priya, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s811-s819, 2025",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12343219735584138193",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12343219735584138193&engine=google_scholar&hl=en",
+        "cites_id": "12343219735584138193"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Grating index difference (GID) and order based distributed feedback laser effects on coarse wavelength division multiplexing optical fiber systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "KLDQnqUAAAAJ:J_g5lzvAfSwC",
+      "authors": "ANZ Rashed, BR Altahan, T Manasavenna, SKH Ahammad, PP Priya, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s661-s673, 2025",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5502926819752770793",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5502926819752770793&engine=google_scholar&hl=en",
+        "cites_id": "5502926819752770793"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Various transmission codes for the control of bit error rate in both optical wired and wireless communication channels",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:JV2RwH3_ST0C",
+      "citation_id": "KLDQnqUAAAAJ:JV2RwH3_ST0C",
+      "authors": "AN Zaki Rashed, SKH Ahammad, MG Daher, SH Zyoud, V Sorathiya, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s475-s493, 2025",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11752117264119881055",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11752117264119881055&engine=google_scholar&hl=en",
+        "cites_id": "11752117264119881055"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Non return to zero line coding with suppressed carrier in FSO transceiver systems under light rain conditions",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:k_IJM867U9cC",
+      "citation_id": "KLDQnqUAAAAJ:k_IJM867U9cC",
+      "authors": "ANZ Rashed, MG Daher, SKH Ahammad, FJP Montalbo, V Sorathiya, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s495-s505, 2025",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1099555710281945663",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1099555710281945663&engine=google_scholar&hl=en",
+        "cites_id": "1099555710281945663"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Signal propagation parameters estimation through designed multi layer fibre with higher dominant modes using OptiFibre simulation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:isC4tDSrTZIC",
+      "citation_id": "KLDQnqUAAAAJ:isC4tDSrTZIC",
+      "authors": "AN Zaki Rashed, SKH Ahammad, MG Daher, V Sorathiya, A Siddique, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s453-s463, 2025",
+      "cited_by": {
+        "value": 27,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=76395065527908274",
+        "serpapi_link": "https://serpapi.com/search.json?cites=76395065527908274&engine=google_scholar&hl=en",
+        "cites_id": "76395065527908274"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Spatial single mode laser source interaction with measured pulse based parabolic index multimode fiber",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:TFP_iSt0sucC",
+      "citation_id": "KLDQnqUAAAAJ:TFP_iSt0sucC",
+      "authors": "ANZ Rashed, SKH Ahammad, MG Daher, V Sorathiya, A Siddique, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s465-s473, 2025",
+      "cited_by": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11673005224173484006",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11673005224173484006&engine=google_scholar&hl=en",
+        "cites_id": "11673005224173484006"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "QAM receiver based on light amplifiers measured with effective role of optical coherent duobinary transmitter",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:IWHjjKOFINEC",
+      "citation_id": "KLDQnqUAAAAJ:IWHjjKOFINEC",
+      "authors": "MMA Eid, R Arunachalam, V Sorathiya, S Lavadiya, SK Patel, J Parmar, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s445-s452, 2025",
+      "cited_by": {
+        "value": 49,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15515517077055319837",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15515517077055319837&engine=google_scholar&hl=en",
+        "cites_id": "15515517077055319837"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "CWDM communication system based inline erbium-doped fiber amplifiers with the linear geometrical polarization model",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:qxL8FJ1GzNcC",
+      "citation_id": "KLDQnqUAAAAJ:qxL8FJ1GzNcC",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, J Parmar, SK Patel, SA Ali, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s431-s443, 2025",
+      "cited_by": {
+        "value": 44,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461952375748677167",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7461952375748677167&engine=google_scholar&hl=en",
+        "cites_id": "7461952375748677167"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "ROF systems performance efficiency based on continuous phase frequency shift keying phase modulation scheme",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:M3ejUd6NZC8C",
+      "citation_id": "KLDQnqUAAAAJ:M3ejUd6NZC8C",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, IA Abd El-Aziz, S Asaduzzaman, ...",
+      "publication": "Journal of Optical Communications 45 (s1), s417-s429, 2025",
+      "cited_by": {
+        "value": 47,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11354332151206120043",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11354332151206120043&engine=google_scholar&hl=en",
+        "cites_id": "11354332151206120043"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Technical specifications and spectral performance characteristics of dispersion flattened fiber (DFF) in optical fiber systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:4TOpqqG69KYC",
+      "citation_id": "KLDQnqUAAAAJ:4TOpqqG69KYC",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, A Helmy, ANZ Rashed",
+      "publication": "Journal of Optical Communications 45 (s1), s393-s405, 2025",
+      "cited_by": {
+        "value": 43,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15099973478866521661",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15099973478866521661&engine=google_scholar&hl=en",
+        "cites_id": "15099973478866521661"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Free space optics communication channel with amplitude/frequency shift keying modulation technique based raised cosine line coding",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:_kc_bZDykSQC",
+      "citation_id": "KLDQnqUAAAAJ:_kc_bZDykSQC",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, IA Abd El-Aziz, ANZ Rashed",
+      "publication": "Journal of Optical Communications 45 (s1), s383-s391, 2025",
+      "cited_by": {
+        "value": 42,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16610366906691108047",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16610366906691108047&engine=google_scholar&hl=en",
+        "cites_id": "16610366906691108047"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Optical switches based semiconductor optical amplifiers (SOAs) for performance characteristics enhancement by using various electrical pulse generators",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:YOwf2qJgpHMC",
+      "citation_id": "KLDQnqUAAAAJ:YOwf2qJgpHMC",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, E Shehata, ANZ Rashed",
+      "publication": "Journal of Optical Communications 45 (s1), s369-s381, 2025",
+      "cited_by": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11456199340004073104",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11456199340004073104&engine=google_scholar&hl=en",
+        "cites_id": "11456199340004073104"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "GaAs electro-optic absorption modulators performance evaluation, under high-temperature variations",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:ULOm3_A8WrAC",
+      "citation_id": "KLDQnqUAAAAJ:ULOm3_A8WrAC",
+      "authors": "MMA Eid, ANZ Rashed, V Sorathiya, S Lavadiya, MA Habib, IS Amiri",
+      "publication": "Journal of Optical Communications 45 (s1), s359-s368, 2025",
+      "cited_by": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10683311733509684384",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10683311733509684384&engine=google_scholar&hl=en",
+        "cites_id": "10683311733509684384"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Wide band fiber systems and long transmission applications based on optimum optical fiber amplifiers lengths",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:Zph67rFs4hoC",
+      "citation_id": "KLDQnqUAAAAJ:Zph67rFs4hoC",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, H Said Abd El-Hamid, ANZ Rashed",
+      "publication": "Journal of Optical Communications 45 (s1), s347-s357, 2025",
+      "cited_by": {
+        "value": 45,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3797034172844479150",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3797034172844479150&engine=google_scholar&hl=en",
+        "cites_id": "3797034172844479150"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Free space and wired optics communication systems performance improvement for short-range applications with the signal power optimization",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "KLDQnqUAAAAJ:3fE2CSJIrl8C",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, E Shehata, ANZ Rashed",
+      "publication": "Journal of Optical Communications 45 (s1), s327-s335, 2025",
+      "cited_by": {
+        "value": 54,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16318903598850025571",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16318903598850025571&engine=google_scholar&hl=en",
+        "cites_id": "16318903598850025571"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Dispersion compensation FBG with optical quadrature phase shift keying (OQPSK) modulation scheme for high system capacity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "KLDQnqUAAAAJ:MXK_kJrjxJIC",
+      "authors": "MMA Eid, V Sorathiya, S Lavadiya, MA Habib, A Helmy, ANZ Rashed",
+      "publication": "Journal of Optical Communications 45 (s1), s315-s325, 2025",
+      "cited_by": {
+        "value": 49,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10469190361351098920",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10469190361351098920&engine=google_scholar&hl=en",
+        "cites_id": "10469190361351098920"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "MXene-based multilayered and ultrawideband absorber for solar cell and photovoltaic applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:D_sINldO8mEC",
+      "citation_id": "KLDQnqUAAAAJ:D_sINldO8mEC",
+      "authors": "JM Ngobeh, V Sorathiya, A Alwabli, AY Jaffar, OS Faragallah",
+      "publication": "Scientific Reports 15 (1), 1972, 2025",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3563415783429243454",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3563415783429243454&engine=google_scholar&hl=en",
+        "cites_id": "3563415783429243454"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Numerical Investigation on Borophene-Based Ultraviolet and Infrared Metamaterial Absorber",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:eJXPG6dFmWUC",
+      "citation_id": "KLDQnqUAAAAJ:eJXPG6dFmWUC",
+      "authors": "AHM Almawgani, ARH Alhawari, Z Sbeah, V Sorathiya, D Chauhan",
+      "publication": "Plasmonics, 1-14, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "GST and BFO assisted microring resonator for nanoplasmonic applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:LPZeul_q3PIC",
+      "citation_id": "KLDQnqUAAAAJ:LPZeul_q3PIC",
+      "authors": "D Chauhan, Z Sbeah, V Sorathiya, A Verma, RP Dwivedi",
+      "publication": "Physica E: Low-dimensional Systems and Nanostructures 166, 116149, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Dual band four port MIMO antenna with dual circular polarization for Wi-Fi/WiMAX applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:5Ul4iDaHHb8C",
+      "citation_id": "KLDQnqUAAAAJ:5Ul4iDaHHb8C",
+      "authors": "P Thanki, T Upadhyaya, U Patel, K Aliqab, M Alsharari, AA Althuwayb, ...",
+      "publication": "Alexandria Engineering Journal 112, 1-16, 2025",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Planar compact four port MIMO antenna for Ultra Wideband applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:VOx2b1Wkg3QC",
+      "citation_id": "KLDQnqUAAAAJ:VOx2b1Wkg3QC",
+      "authors": "P Thanki, T Upadhyaya, U Patel, V Sorathiya, M Khishe",
+      "publication": "PloS one 19 (12), e0314193, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Ultra-thin, polarization-insensitive, and conformal metamaterial-based sensor with high Q-factor",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:fQNAKQ3IYiAC",
+      "citation_id": "KLDQnqUAAAAJ:fQNAKQ3IYiAC",
+      "authors": "KP Kaur, T Upadhyaya, U Patel, V Sorathiya, A Alwabli, AY Jaffar",
+      "publication": "Applied Physics A 130 (12), 930, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Highly isolated electrically compact uwb mimo antenna for wireless communications applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:sSrBHYA8nusC",
+      "citation_id": "KLDQnqUAAAAJ:sSrBHYA8nusC",
+      "authors": "K Pandya, T Upadhyaya, V Sorathiya, U Patel, A Pandya, FA Al-Zahrani",
+      "publication": "Results in Engineering 24, 103082, 2024",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13750363019550414623",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13750363019550414623&engine=google_scholar&hl=en",
+        "cites_id": "13750363019550414623"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Computational Investigation on Ultrawideband MXene-Based Metamaterial Absorber for the Photonics and Photovoltaic Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:8AbLer7MMksC",
+      "citation_id": "KLDQnqUAAAAJ:8AbLer7MMksC",
+      "authors": "JM Ngobeh, V Sorathiya, T Altameem, W El-Shafai",
+      "publication": "Plasmonics, 1-15, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6601759888402744151",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6601759888402744151&engine=google_scholar&hl=en",
+        "cites_id": "6601759888402744151"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Selection of efficient HTL for lead-free Cs2TiBr6-based PSC with relative permittivity, & carrier life time optimization: a theoretical study",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:geHnlv5EZngC",
+      "citation_id": "KLDQnqUAAAAJ:geHnlv5EZngC",
+      "authors": "K Chakraborty, NR Medikondu, VV Kamesh, V Sorathiya, S Das, ...",
+      "publication": "Optical and Quantum Electronics 56 (11), 1793, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1671061951228489028",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1671061951228489028&engine=google_scholar&hl=en",
+        "cites_id": "1671061951228489028"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Multi-layered MXene and GST Material–Based Reflective Index Sensor: Numerical Study and Predication of Behaviour Using Machine Learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:4fKUyHm3Qg0C",
+      "citation_id": "KLDQnqUAAAAJ:4fKUyHm3Qg0C",
+      "authors": "AHM Almawgani, V Sorathiya, U Soni, J Golani, YAA Ali",
+      "publication": "Plasmonics, 1-18, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Multilayered MXene-Si-Metal based grating structure based nearly perfect absorber for the visible and infrared spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:tOudhMTPpwUC",
+      "citation_id": "KLDQnqUAAAAJ:tOudhMTPpwUC",
+      "authors": "V Dave, V Sorathiya, A Alghamdi, OS Faragallah",
+      "publication": "Applied Physics A 130 (10), 703, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "CuO vs. AgO: A comparative study of cathode catalysts for boosting oxygen reduction in microbial desalination cells",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:Tiz5es2fbqcC",
+      "citation_id": "KLDQnqUAAAAJ:Tiz5es2fbqcC",
+      "authors": "S Kumari, RK Mishra, V Sorathiya, K Priya, S Pandit, AA Khan, N Ranjan, ...",
+      "publication": "Desalination and Water Treatment 320, 100637, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "A Data-Centric Approach to improve performance of deep learning models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:tS2w5q8j5-wC",
+      "citation_id": "KLDQnqUAAAAJ:tS2w5q8j5-wC",
+      "authors": "N Bhatt, N Bhatt, P Prajapati, V Sorathiya, S Alshathri, W El-Shafai",
+      "publication": "Scientific Reports 14 (1), 22329, 2024",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11028415191095272781",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11028415191095272781&engine=google_scholar&hl=en",
+        "cites_id": "11028415191095272781"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "High-sensitive MXene and GST-based tunable refractive index sensor for the infrared and visible spectrum from multipurpose sensing applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:vRqMK49ujn8C",
+      "citation_id": "KLDQnqUAAAAJ:vRqMK49ujn8C",
+      "authors": "ZA Sbeah, VP Sorathiya, FM Aldosari, A ALWABLI, A Jaffar, ...",
+      "publication": "Physica Scripta, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "GST and MXene-Based highly sensitive refractive index sensor with gold gratings resonator operating for infrared region",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:08ZZubdj9fEC",
+      "citation_id": "KLDQnqUAAAAJ:08ZZubdj9fEC",
+      "authors": "R Gupta, RP Dwivedi, ZA Sbeah, V Sorathiya, A Alwabli, A Alghamdi, ...",
+      "publication": "Plasmonics, 1-17, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15941060285300965266",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15941060285300965266&engine=google_scholar&hl=en",
+        "cites_id": "15941060285300965266"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Mxene Grating Based Highly Sensitive Refractive Index Sensor Operating For Infrared and Visible Spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:K3LRdlH-MEoC",
+      "citation_id": "KLDQnqUAAAAJ:K3LRdlH-MEoC",
+      "authors": "R Gupta, RP Dwivedi, ZA Sbeah, V Sorathiya, A Alwabli, A Alghamdi, ...",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Borophene and phase change material-based integrated multilayered high-sensitive refractive index sensor for infrared frequency spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:WbkHhVStYXYC",
+      "citation_id": "KLDQnqUAAAAJ:WbkHhVStYXYC",
+      "authors": "Z Sbeah, V Sorathiya, D Chauhan, A Alwabli, AY Jaffar, A Alghamdi, ...",
+      "publication": "Plasmonics, 1-19, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14061658245678133311",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14061658245678133311&engine=google_scholar&hl=en",
+        "cites_id": "14061658245678133311"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Simulation study of a highly sensitive I-shaped Plasmonic nanosensor for sensing of biomolecules",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:XiSMed-E-HIC",
+      "citation_id": "KLDQnqUAAAAJ:XiSMed-E-HIC",
+      "authors": "D Chauhan, Z Sbeah, V Sorathiya, R Adhikari, RP Dwivedi",
+      "publication": "Physica Scripta 99 (8), 085540, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16158352727184596441",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16158352727184596441&engine=google_scholar&hl=en",
+        "cites_id": "16158352727184596441"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Performance analysis of quad-port UWB MIMO antenna system for Sub-6 GHz 5G, WLAN and X band communications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:p2g8aNsByqUC",
+      "citation_id": "KLDQnqUAAAAJ:p2g8aNsByqUC",
+      "authors": "K Pandya, T Upadhyaya, U Patel, V Sorathiya, A Pandya, AJA Al-Gburi, ...",
+      "publication": "Results in Engineering 22, 102318, 2024",
+      "cited_by": {
+        "value": 32,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3316084651512729785",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3316084651512729785&engine=google_scholar&hl=en",
+        "cites_id": "3316084651512729785"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Hybrid optimization for integration of renewable energy systems into smart grids",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:OU6Ihb5iCvQC",
+      "citation_id": "KLDQnqUAAAAJ:OU6Ihb5iCvQC",
+      "authors": "V Verma, V Sorathiya, G Sonowal, MS Reddy",
+      "publication": "Measurement: Sensors 33, 101170, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1043476270816894154",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1043476270816894154&engine=google_scholar&hl=en",
+        "cites_id": "1043476270816894154"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Split ring resonator geometry inspired crossed flower shaped fractal antenna for satellite and 5G communication applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:nb7KW1ujOQ8C",
+      "citation_id": "KLDQnqUAAAAJ:nb7KW1ujOQ8C",
+      "authors": "U Patel, T Upadhyaya, V Sorathiya, K Pandya, A Alwabli, K Dave, ...",
+      "publication": "Results in Engineering 22, 102110, 2024",
+      "cited_by": {
+        "value": 20,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17105158362769051404",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17105158362769051404&engine=google_scholar&hl=en",
+        "cites_id": "17105158362769051404"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Borophene-Ge2Sb2Te5 (GST)-Based Refractive Index Sensor: Numerical Study and Behaviour Prediction Using Machine Learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:EUQCXRtRnyEC",
+      "citation_id": "KLDQnqUAAAAJ:EUQCXRtRnyEC",
+      "authors": "V Sorathiya, U Soni, V Vekariya, J Golani, AHM Almawgani, ...",
+      "publication": "Plasmonics 19 (3), 1211-1226, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6906015537300163141",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6906015537300163141&engine=google_scholar&hl=en",
+        "cites_id": "6906015537300163141"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Slots and stubs incorporated annular ring-shaped compact microstrip antenna with circular polarization characteristics for wireless UWB communication systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:KxtntwgDAa4C",
+      "citation_id": "KLDQnqUAAAAJ:KxtntwgDAa4C",
+      "authors": "T El-Arrouch, S Das, T Islam, V Sorathiya, BTP Madhav, A El Ansari, ...",
+      "publication": "Physica Scripta 99 (6), 065519, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Broad-spectrum infrared metamaterial absorbers based on MXenes for solar cell applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:SP6oXDckpogC",
+      "citation_id": "KLDQnqUAAAAJ:SP6oXDckpogC",
+      "authors": "JM Ngobeh, V Sorathiya, A Alwabli, SF Malky",
+      "publication": "Optical and Quantum Electronics 56 (6), 1009, 2024",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3985985610115867554",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3985985610115867554&engine=google_scholar&hl=en",
+        "cites_id": "3985985610115867554"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "5th Parul University International Conference on Engineering and Technology PiCET-2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:UxriW0iASnsC",
+      "citation_id": "KLDQnqUAAAAJ:UxriW0iASnsC",
+      "authors": "V Vekariya, R Mishra, V Sorathiya",
+      "publication": "AIP Conference Proceedings 3107 (1), 010001, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Preface: The Fifth Parul University International Conference on Engineering & Technology–PICET 2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:dshw04ExmUIC",
+      "citation_id": "KLDQnqUAAAAJ:dshw04ExmUIC",
+      "authors": "V Vekariya, R Mishra, V Sorathiya",
+      "publication": "AIP Conference Proceedings 3107 (1), 010002, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Graphene-based log-periodic dipole antenna-shaped MIMO antenna structure for the terahertz frequency Spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:bFI3QPDXJZMC",
+      "citation_id": "KLDQnqUAAAAJ:bFI3QPDXJZMC",
+      "authors": "V Sorathiya, MG Daher, I Elfergani, C Zebiri, A Desai, Z Vujicic, ...",
+      "publication": "Arabian Journal for Science and Engineering 49 (5), 6391-6404, 2024",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11890789132325614926",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11890789132325614926&engine=google_scholar&hl=en",
+        "cites_id": "11890789132325614926"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Differential coding scheme based FSO channel for optical coherent DP-16 QAM transceiver systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:9ZlFYXVOiuMC",
+      "citation_id": "KLDQnqUAAAAJ:9ZlFYXVOiuMC",
+      "authors": "S Urooj, NM Alwadai, V Sorathiya, S Lavadiya, J Parmar, SK Patel, ...",
+      "publication": "Journal of Optical Communications 45 (2), 331-345, 2024",
+      "cited_by": {
+        "value": 44,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8724257496624398821",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8724257496624398821&engine=google_scholar&hl=en",
+        "cites_id": "8724257496624398821"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Highly sensitive Borophene-metal-Si based multilayered Terahertz frequency spectrum based refractive index sensor",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:P5F9QuxV20EC",
+      "citation_id": "KLDQnqUAAAAJ:P5F9QuxV20EC",
+      "authors": "AHM Almawgani, V Sorathiya, U Soni, YAA Ali, A Alzahrani",
+      "publication": "Physica Scripta 99 (3), 036007, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Design and diversity performance analysis of C shape engraved miniaturised, and high gain Quad-Port MIMO antenna for 5 G and P2P communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:1sJd4Hv_s6UC",
+      "citation_id": "KLDQnqUAAAAJ:1sJd4Hv_s6UC",
+      "authors": "AHM Almawgani, S Lavadiya, V Sorathiya, ARH Alhawari",
+      "publication": "Physica Scripta 99 (3), 035532, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13405698226665575929",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13405698226665575929&engine=google_scholar&hl=en",
+        "cites_id": "13405698226665575929"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Removal of A Cadmium from Wastewater Using Hydrochar-Supported Nanoscale Zero-Valent Iron (nZVI) on Composite Materials",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:uWQEDVKXjbEC",
+      "citation_id": "KLDQnqUAAAAJ:uWQEDVKXjbEC",
+      "authors": "JM Ngobeh, X Nan, V Sorathiya",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Numerical investigation of MXene-based ultrawideband solar absorber with behaviour prediction using machine learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:xtRiw3GOFMkC",
+      "citation_id": "KLDQnqUAAAAJ:xtRiw3GOFMkC",
+      "authors": "AHM Almawgani, V Sorathiya, U Soni, ARH Alhawari, MG Daher",
+      "publication": "Optical and Quantum Electronics 56 (2), 231, 2024",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2475456670933842484",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2475456670933842484&engine=google_scholar&hl=en",
+        "cites_id": "2475456670933842484"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Securing web applications against XSS and SQLi attacks using a novel deep learning approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:CHSYGLWDkRkC",
+      "citation_id": "KLDQnqUAAAAJ:CHSYGLWDkRkC",
+      "authors": "JR Tadhani, V Vekariya, V Sorathiya, S Alshathri, W El-Shafai",
+      "publication": "Scientific Reports 14 (1), 1803, 2024",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=635972415872597056",
+        "serpapi_link": "https://serpapi.com/search.json?cites=635972415872597056&engine=google_scholar&hl=en",
+        "cites_id": "635972415872597056"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Self‐Isolated Surface‐Mountable MIMO Antenna for FR1 Band Communications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:l7t_Zn2s7bgC",
+      "citation_id": "KLDQnqUAAAAJ:l7t_Zn2s7bgC",
+      "authors": "A Patel, AHM Almawgani, T Upadhyaya, V Sorathia, V Dabhi, S Shebl",
+      "publication": "International Journal of Antennas and Propagation 2024 (1), 7732936, 2024",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13706102821406968550",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13706102821406968550&engine=google_scholar&hl=en",
+        "cites_id": "13706102821406968550"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Broadband, high gain 2× 2 spiral shaped resonator based and graphene assisted terahertz MIMO antenna for biomedical and WBAN communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:_xSYboBqXhAC",
+      "citation_id": "KLDQnqUAAAAJ:_xSYboBqXhAC",
+      "authors": "AA Althuwayb, N Rashid, K Kaaniche, AB Atitallah, OI Elhamrawy, ...",
+      "publication": "Wireless Networks 30 (1), 495-515, 2024",
+      "cited_by": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10888793129574520202",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10888793129574520202&engine=google_scholar&hl=en",
+        "cites_id": "10888793129574520202"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Networks, Nodes, and Nebulas Navigating the Complex World of Modern Business Strategies",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:B3FOqHPlNUQC",
+      "citation_id": "KLDQnqUAAAAJ:B3FOqHPlNUQC",
+      "authors": "M Kumaresan, V Sorathiya, P Naval, S Borah",
+      "publication": "International Conference on Information Systems and Management Science, 97-110, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Six-element MIMO antenna structure with squared ring structure with multiband and high gain characteristics for C/X/Ku/K band applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:abG-DnoFyZgC",
+      "citation_id": "KLDQnqUAAAAJ:abG-DnoFyZgC",
+      "authors": "AHM Almawgani, V Sorathiya, VM Dabhi, ARH Alhawari, MFM Salleh",
+      "publication": "Physica Scripta 98 (12), 125517, 2023",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16766755869422847481",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16766755869422847481&engine=google_scholar&hl=en",
+        "cites_id": "16766755869422847481"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Quad-port MIMO antenna with high isolation characteristics for sub 6-GHz 5G NR communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:b0M2c_1WBrUC",
+      "citation_id": "KLDQnqUAAAAJ:b0M2c_1WBrUC",
+      "authors": "T Upadhyaya, V Sorathiya, S Al-Shathri, W El-Shafai, U Patel, KV Pandya, ...",
+      "publication": "Scientific Reports 13 (1), 19088, 2023",
+      "cited_by": {
+        "value": 28,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11814059885782841289",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11814059885782841289&engine=google_scholar&hl=en",
+        "cites_id": "11814059885782841289"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Low-energy network protocols",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:dfsIfKJdRG4C",
+      "citation_id": "KLDQnqUAAAAJ:dfsIfKJdRG4C",
+      "authors": "H Kathiriya, A Bavarva, V Sorathiya",
+      "publication": "Recent Trends and Best Practices in Industry 4.0, 283-308, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1237435655758949866",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1237435655758949866&engine=google_scholar&hl=en",
+        "cites_id": "1237435655758949866"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "A review on metamaterial sensors based on active plasmonic materials",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:4OULZ7Gr8RgC",
+      "citation_id": "KLDQnqUAAAAJ:4OULZ7Gr8RgC",
+      "authors": "ZA Sbeah, R Adhikari, V Sorathiya, D Chauhan, SH Chang, RP Dwivedi",
+      "publication": "Plasmonics 18 (5), 1619-1638, 2023",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11848762912531268436",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11848762912531268436&engine=google_scholar&hl=en",
+        "cites_id": "11848762912531268436"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Modeling of a novel chikungunya virus detector based on silicon and titanium nitride multilayer thin films",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:cFHS6HbyZ2cC",
+      "citation_id": "KLDQnqUAAAAJ:cFHS6HbyZ2cC",
+      "authors": "MG Daher, O Alsalman, NM Ahmed, I Sassi, V Sorathiya, HCL Tsui, ...",
+      "publication": "Optik 287, 171136, 2023",
+      "cited_by": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3492570601011211135",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3492570601011211135&engine=google_scholar&hl=en",
+        "cites_id": "3492570601011211135"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "High-sensitive plasmonic multilayer SiO2/VO2 metamaterial sensor",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:yD5IFk8b50cC",
+      "citation_id": "KLDQnqUAAAAJ:yD5IFk8b50cC",
+      "authors": "ZA Sbeah, R Adhikari, V Sorathiya, D Chauhan, RS Ponomarev, ...",
+      "publication": "Applied Physics A 129 (8), 596, 2023",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16949444319580977794",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16949444319580977794&engine=google_scholar&hl=en",
+        "cites_id": "16949444319580977794"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "High Accurate Cast Shadow Detection of Moving Vehicles in Low Illumination Environment",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:f2IySw72cVMC",
+      "citation_id": "KLDQnqUAAAAJ:f2IySw72cVMC",
+      "authors": "V Vekariya, K Jadav, V Sorathiya",
+      "publication": "2023 Photonics & Electromagnetics Research Symposium (PIERS), 595-604, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "MXene-GST-Graphene-Si Composited Tunable Surface Plasmon Resonance-Based Refractive Index Sensor Operated at Infrared Optical Wavelength",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:pyW8ca7W8N0C",
+      "citation_id": "KLDQnqUAAAAJ:pyW8ca7W8N0C",
+      "authors": "V Vekariya, V Sorathiya, K Jadav",
+      "publication": "2023 Photonics & Electromagnetics Research Symposium (PIERS), 41-48, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Au-TiO2-Coated Spectroscopy-Based Human Teeth Disorder Detection Sensor: Design and Quantitative Analysis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:fPk4N6BV_jEC",
+      "citation_id": "KLDQnqUAAAAJ:fPk4N6BV_jEC",
+      "authors": "SA Mitu, K Ahmed, FM Bui, L Chen, LK Smirani, SK Patel, V Sorathiya",
+      "publication": "Micromachines 14 (6), 1191, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11675340328295790451",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11675340328295790451&engine=google_scholar&hl=en",
+        "cites_id": "11675340328295790451"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Design of dipole array MIMO antenna for multiband and ultrawideband radiation applications in WiFi/Zigbee/WiMAX/satellite and mobile communications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:u_35RYKgDlwC",
+      "citation_id": "KLDQnqUAAAAJ:u_35RYKgDlwC",
+      "authors": "AHM Almawgani, V Sorathiya, ARH Alhawari",
+      "publication": "Applied Physics A 129 (6), 449, 2023",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=210626323113441262",
+        "serpapi_link": "https://serpapi.com/search.json?cites=210626323113441262&engine=google_scholar&hl=en",
+        "cites_id": "210626323113441262"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Multilayered gold, MgF2 and tungsten based ultra wide band infrared absorber for solar cell applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:SeFeTyx0c_EC",
+      "citation_id": "KLDQnqUAAAAJ:SeFeTyx0c_EC",
+      "authors": "HM El-Hageen, V Sorathiya, S Lavadiya, N Mehata, V Katariya, SK Patel, ...",
+      "publication": "Materials Chemistry and Physics 301, 127680, 2023",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=693441660294690113",
+        "serpapi_link": "https://serpapi.com/search.json?cites=693441660294690113&engine=google_scholar&hl=en",
+        "cites_id": "693441660294690113"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Superlative split ring resonator shaped ultrawideband and high gain 1× 2 MIMO antenna for Terahertz communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:2P1L_qKh6hAC",
+      "citation_id": "KLDQnqUAAAAJ:2P1L_qKh6hAC",
+      "authors": "K Muthukrishnan, MM Kamruzzaman, S Lavadiya, V Sorathiya",
+      "publication": "Nano Communication Networks 36, 100437, 2023",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4968410138589671983",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4968410138589671983&engine=google_scholar&hl=en",
+        "cites_id": "4968410138589671983"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Graphene-Based THz antenna: rudiments, fabrication, and forthcoming opportunity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:zA6iFVUQeVQC",
+      "citation_id": "KLDQnqUAAAAJ:zA6iFVUQeVQC",
+      "authors": "S Lavadiya, V Sorathiya, K Duraisamy, DH Devi, S Das",
+      "publication": "Recent Advances in Graphene Nanophotonics, 287-304, 2023",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7031550015614085359",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7031550015614085359&engine=google_scholar&hl=en",
+        "cites_id": "7031550015614085359"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Numerical analysis of hafnium oxide and phase change material-based multi-layered infrared and visible frequency sensor for biomolecules sensing application",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:rO6llkc54NcC",
+      "citation_id": "KLDQnqUAAAAJ:rO6llkc54NcC",
+      "authors": "K Aliqab, V Sorathiya, M Alsharari, K Dave, A Armghan",
+      "publication": "Scientific Reports 13 (1), 7698, 2023",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17508147641881087352",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17508147641881087352&engine=google_scholar&hl=en",
+        "cites_id": "17508147641881087352"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Numerical analysis of Phase change material and graphene-based tunable refractive index sensor for infrared frequency spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:3s1wT3WcHBgC",
+      "citation_id": "KLDQnqUAAAAJ:3s1wT3WcHBgC",
+      "authors": "K Aliqab, K Dave, V Sorathiya, M Alsharari, A Armghan",
+      "publication": "Scientific Reports 13 (1), 7653, 2023",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13100236538670322583",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13100236538670322583&engine=google_scholar&hl=en",
+        "cites_id": "13100236538670322583"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Development of split ring resonator shaped six element 2× 3 multiple input multiple output antenna for the C/X/Ku/K band applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:ZHo1McVdvXMC",
+      "citation_id": "KLDQnqUAAAAJ:ZHo1McVdvXMC",
+      "authors": "M Alsharari, V Sorathiya, A Armghan, K Dave, K Aliqab",
+      "publication": "Micromachines 14 (4), 874, 2023",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18232603247680666000",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18232603247680666000&engine=google_scholar&hl=en",
+        "cites_id": "18232603247680666000"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "A numerical investigation of ultrawideband metamaterial absorber for infrared wavelength spectrum for the solar cell application",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:pqnbT2bcN3wC",
+      "citation_id": "KLDQnqUAAAAJ:pqnbT2bcN3wC",
+      "authors": "V Sorathiya, S Lavadiya",
+      "publication": "Optical Components and Materials XX 12417, 230-239, 2023",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2023"
+    },
+    {
+      "title": "1x2 printed element-based MIMO antenna with UWB and multiband response for airborne and naval radar communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:HoB7MX3m0LUC",
+      "citation_id": "KLDQnqUAAAAJ:HoB7MX3m0LUC",
+      "authors": "S Lavadiya, V Sorathiya, SK Patel",
+      "publication": "Terahertz, RF, Millimeter, and Submillimeter-Wave Technology and …, 2023",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9926003293508816161",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9926003293508816161&engine=google_scholar&hl=en",
+        "cites_id": "9926003293508816161"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "A novel design of spike-shaped miniaturized 4× 4 MIMO antenna for wireless UWB network applications using characteristic mode analysis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:g5m5HwL7SMYC",
+      "citation_id": "KLDQnqUAAAAJ:g5m5HwL7SMYC",
+      "authors": "AC Suresh, TS Reddy, BTP Madhav, S Alshathri, W El-Shafai, S Das, ...",
+      "publication": "Micromachines 14 (3), 612, 2023",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14672315591246199796",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14672315591246199796&engine=google_scholar&hl=en",
+        "cites_id": "14672315591246199796"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Rectangular strip engraved circular patch and connected corrugated stub-based MIMO antenna for Wi-Fi/5G/WiMAX/satellite communication applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:ldfaerwXgEUC",
+      "citation_id": "KLDQnqUAAAAJ:ldfaerwXgEUC",
+      "authors": "AHM Almawgani, V Sorathiya",
+      "publication": "Applied Physics A 129 (3), 200, 2023",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5858528221171612511",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5858528221171612511&engine=google_scholar&hl=en",
+        "cites_id": "5858528221171612511"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "5G technology in healthcare and wearable devices: A review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:M05iB0D1s5AC",
+      "citation_id": "KLDQnqUAAAAJ:M05iB0D1s5AC",
+      "authors": "DH Devi, K Duraisamy, A Armghan, M Alsharari, K Aliqab, V Sorathiya, ...",
+      "publication": "Sensors 23 (5), 2519, 2023",
+      "cited_by": {
+        "value": 125,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10573329443294465261",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10573329443294465261&engine=google_scholar&hl=en",
+        "cites_id": "10573329443294465261"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Numerical investigation of ultrawideband solar wave absorber with multiring resonator gold and composited MgF2-Tungsten substrate",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:vV6vV6tmYwMC",
+      "citation_id": "KLDQnqUAAAAJ:vV6vV6tmYwMC",
+      "authors": "G Mahendran, C Govindaraju, V Sorathiya, S Lavadiya",
+      "publication": "Optik 273, 170392, 2023",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12661696426267926831",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12661696426267926831&engine=google_scholar&hl=en",
+        "cites_id": "12661696426267926831"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Phase change material and MXene composited refractive index sensor for a wide range of sensing applications at visible and infrared wavelength spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:RGFaLdJalmkC",
+      "citation_id": "KLDQnqUAAAAJ:RGFaLdJalmkC",
+      "authors": "FA Alzahrani, V Sorathiya",
+      "publication": "Optik 272, 170242, 2023",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16811299533048655941",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16811299533048655941&engine=google_scholar&hl=en",
+        "cites_id": "16811299533048655941"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Design and investigation of unique shaped low-Profile material-based superlative two-element printed ultrawideband MIMO antenna for Zigbee/WiFi/5G/WiMAX applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:ns9cj8rnVeAC",
+      "citation_id": "KLDQnqUAAAAJ:ns9cj8rnVeAC",
+      "authors": "V Sorathiya, AG Alharbi, S Lavadiya",
+      "publication": "Alexandria Engineering Journal 64, 813-831, 2023",
+      "cited_by": {
+        "value": 23,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17381969871006303046",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17381969871006303046&engine=google_scholar&hl=en",
+        "cites_id": "17381969871006303046"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Shadow Extraction and Elimination of Moving Vehicles for Tracking Vehicles",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:NhqRSupF_l8C",
+      "citation_id": "KLDQnqUAAAAJ:NhqRSupF_l8C",
+      "authors": "K Jadav, V Sorathiya, W El-Shafai, T Altameem, MH Aly, V Vekariya, ...",
+      "publication": "CMC-COMPUTERS MATERIALS & CONTINUA 77 (2), 2009-2030, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16363071241773201",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16363071241773201&engine=google_scholar&hl=en",
+        "cites_id": "16363071241773201"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "A numerical investigation study on tunable graphene-squared pixel array-based infrared polarizer",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:NaGl4SEjCO4C",
+      "citation_id": "KLDQnqUAAAAJ:NaGl4SEjCO4C",
+      "authors": "FA Alzahrani, V Sorathiya",
+      "publication": "Applied Physics B 129 (1), 2, 2023",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18185514766676277537",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18185514766676277537&engine=google_scholar&hl=en",
+        "cites_id": "18185514766676277537"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Nonlinear wavelength conversion cross phase modulation in fiber systems based on directly modulated laser measured",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:70eg2SAEIzsC",
+      "citation_id": "KLDQnqUAAAAJ:70eg2SAEIzsC",
+      "authors": "ANZ Rashed, GH Babu, SH Ahammad, V Sorathiya, MA Hossain, ...",
+      "publication": "Journal of Optical Communications, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15489524120952027273",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15489524120952027273&engine=google_scholar&hl=en",
+        "cites_id": "15489524120952027273"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A numerical investigation of graphene-based hilbert-shaped multi-band MIMO antenna for the terahertz spectrum applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:35N4QoGY0k4C",
+      "citation_id": "KLDQnqUAAAAJ:35N4QoGY0k4C",
+      "authors": "K Aliqab, M Alsharari, V Sorathiya, A Armghan",
+      "publication": "Sensors 23 (1), 37, 2022",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=875107226125472136",
+        "serpapi_link": "https://serpapi.com/search.json?cites=875107226125472136&engine=google_scholar&hl=en",
+        "cites_id": "875107226125472136"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Design and fabrication of the split ring resonator shaped two-element MIMO antenna with multiple-band operation for WiMAX/5G/Zigbee/Wi-Fi applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:RYcK_YlVTxYC",
+      "citation_id": "KLDQnqUAAAAJ:RYcK_YlVTxYC",
+      "authors": "A Armghan, K Aliqab, V Sorathiya, F Alenezi, M Alsharari, F Ali",
+      "publication": "Micromachines 13 (12), 2161, 2022",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6078250251872554193",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6078250251872554193&engine=google_scholar&hl=en",
+        "cites_id": "6078250251872554193"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Detection of basal cancer cells using photodetector based on a novel surface plasmon resonance nanostructure employing perovskite layer with an ultra high sensitivity",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:O3NaXMp0MMsC",
+      "citation_id": "KLDQnqUAAAAJ:O3NaXMp0MMsC",
+      "authors": "MG Daher, Y Trabelsi, NM Ahmed, YK Prajapati, V Sorathiya, ...",
+      "publication": "Plasmonics 17 (6), 2365-2373, 2022",
+      "cited_by": {
+        "value": 51,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214910837858722021",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14214910837858722021&engine=google_scholar&hl=en",
+        "cites_id": "14214910837858722021"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "GST-based plasmonic biosensor for hemoglobin and urine detection",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:GnPB-g6toBAC",
+      "citation_id": "KLDQnqUAAAAJ:GnPB-g6toBAC",
+      "authors": "ZA Sbeah, R Adhikari, V Sorathiya, D Chauhan, ANZ Rashed, SH Chang, ...",
+      "publication": "Plasmonics 17 (6), 2391-2404, 2022",
+      "cited_by": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11141916584181279963",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11141916584181279963&engine=google_scholar&hl=en",
+        "cites_id": "11141916584181279963"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Numerical investigation and comparative analysis of tunable graphene-gold metasurface-based polarizer structures for infrared frequency",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:dhFuZR0502QC",
+      "citation_id": "KLDQnqUAAAAJ:dhFuZR0502QC",
+      "authors": "V Sorathiya, SK Patel",
+      "publication": "Solid State Communications 355, 114935, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14862934167351245893",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14862934167351245893&engine=google_scholar&hl=en",
+        "cites_id": "14862934167351245893"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A gold-plated twin core d-formed photonic crystal fiber (PCF) for ultrahigh sensitive applications based on surface plasmon resonance (SPR) approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:hMod-77fHWUC",
+      "citation_id": "KLDQnqUAAAAJ:hMod-77fHWUC",
+      "authors": "A Zuhayer, M Abd-Elnaby, SH Ahammad, MMA Eid, V Sorathiya, ...",
+      "publication": "Plasmonics 17 (5), 2089-2101, 2022",
+      "cited_by": {
+        "value": 35,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17604999740468448053",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17604999740468448053&engine=google_scholar&hl=en",
+        "cites_id": "17604999740468448053"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Phase change material-based biosensor in infrared frequency spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:BqipwSGYUEgC",
+      "citation_id": "KLDQnqUAAAAJ:BqipwSGYUEgC",
+      "authors": "ZA Sbeah, RP Dwivedi, V Sorathiya, D Chauhan, R Adhikari",
+      "publication": "AIP Conference Proceedings 2640 (1), 2022",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16352147867790819135",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16352147867790819135&engine=google_scholar&hl=en",
+        "cites_id": "16352147867790819135"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Graphene assisted tunable narrowband metamaterial absorber for infrared wavelength",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "KLDQnqUAAAAJ:YFjsv_pBGBYC",
+      "authors": "ZA Sbeah, RP Dwivedi, V Sorathiya, D Chauhan, R Adhikari",
+      "publication": "AIP Conference Proceedings 2640 (1), 2022",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3985791446388552605",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3985791446388552605&engine=google_scholar&hl=en",
+        "cites_id": "3985791446388552605"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Antennas for thz communication: Fundamentals, design structures, and current trends",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:NMxIlDl6LWMC",
+      "citation_id": "KLDQnqUAAAAJ:NMxIlDl6LWMC",
+      "authors": "S Lavadiya, V Sorathiya, K Dave, SV Kumari",
+      "publication": "Terahertz Devices, Circuits and Systems: Materials, Methods and Applications …, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9986666834205470604",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9986666834205470604&engine=google_scholar&hl=en",
+        "cites_id": "9986666834205470604"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Tunable frequency selective surface using crossed shaped graphene metasurface geometry for far infrared frequency spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:blknAaTinKkC",
+      "citation_id": "KLDQnqUAAAAJ:blknAaTinKkC",
+      "authors": "V Sorathiya, S Lavadiya, B Parmar, S Baxi, T Dhankot, OS Faragallah, ...",
+      "publication": "Applied Physics B 128 (9), 169, 2022",
+      "cited_by": {
+        "value": 15,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15199580539628660008",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15199580539628660008&engine=google_scholar&hl=en",
+        "cites_id": "15199580539628660008"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Graphene-based double-loaded complementary split ring resonator (CSRR) slotted MIMO patch antenna for spectroscopy and imaging THz applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:maZDTaKrznsC",
+      "citation_id": "KLDQnqUAAAAJ:maZDTaKrznsC",
+      "authors": "K Dave, V Sorathiya, SP Lavadiya, SK Patel, U Dhankecha, D Swain, ...",
+      "publication": "Applied Physics A 128 (8), 656, 2022",
+      "cited_by": {
+        "value": 30,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=146192487911612642",
+        "serpapi_link": "https://serpapi.com/search.json?cites=146192487911612642&engine=google_scholar&hl=en",
+        "cites_id": "146192487911612642"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Nanofocusing of optical wave using staircase tapered plasmonic waveguide",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:bEWYMUwI8FkC",
+      "citation_id": "KLDQnqUAAAAJ:bEWYMUwI8FkC",
+      "authors": "V Sorathiya, OS Faragallah, HS El-Sayed, MMA Eid, ANZ Rashed",
+      "publication": "Applied Physics B 128 (6), 104, 2022",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17685194229193406574",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17685194229193406574&engine=google_scholar&hl=en",
+        "cites_id": "17685194229193406574"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Low profile multiband microstrip patch antenna with frequency reconfigurable feature using PIN diode for S, C, X, and Ku band applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:R3hNpaxXUhUC",
+      "citation_id": "KLDQnqUAAAAJ:R3hNpaxXUhUC",
+      "authors": "SP Lavadiya, V Sorathiya, S Kanzariya, B Chavda, A Naweed, ...",
+      "publication": "International journal of communication systems 35 (9), e5141, 2022",
+      "cited_by": {
+        "value": 57,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3127186551869865353",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3127186551869865353&engine=google_scholar&hl=en",
+        "cites_id": "3127186551869865353"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Numerical investigation of cross metamaterial shaped ultrawideband solar absorber",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:iH-uZ7U-co4C",
+      "citation_id": "KLDQnqUAAAAJ:iH-uZ7U-co4C",
+      "authors": "M Devendran, A Beno, K Kannan, M Dhamodaran, V Sorathiya, SK Patel",
+      "publication": "Optical and Quantum Electronics 54 (5), 323, 2022",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441819878837697587",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13441819878837697587&engine=google_scholar&hl=en",
+        "cites_id": "13441819878837697587"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "D shaped dual core photonics crystal based refractive index sensor using graphene–titanium–silver materials for infrared frequency spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:4JMBOYKVnBMC",
+      "citation_id": "KLDQnqUAAAAJ:4JMBOYKVnBMC",
+      "authors": "V Sorathiya, S Lavadiya, OS Faragallah, MMA Eid, ANZ Rashed",
+      "publication": "Optical and Quantum Electronics 54 (5), 290, 2022",
+      "cited_by": {
+        "value": 54,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8465741903090506541",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8465741903090506541&engine=google_scholar&hl=en",
+        "cites_id": "8465741903090506541"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Ultra-wideband graphene-based micro-sized circular patch-shaped yagi-like MIMO antenna for terahertz wireless communication",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:r0BpntZqJG4C",
+      "citation_id": "KLDQnqUAAAAJ:r0BpntZqJG4C",
+      "authors": "AG Alharbi, V Sorathiya",
+      "publication": "Electronics 11 (9), 1305, 2022",
+      "cited_by": {
+        "value": 32,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9072689061224342215",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9072689061224342215&engine=google_scholar&hl=en",
+        "cites_id": "9072689061224342215"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A multi-layered borophene-silica-silver based refractive index sensor for biosensing applications operated at the infrared frequency spectrum",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:j3f4tGmQtD8C",
+      "citation_id": "KLDQnqUAAAAJ:j3f4tGmQtD8C",
+      "authors": "AG Alharbi, V Sorathiya, S Lavadiya",
+      "publication": "Photonics 9 (5), 279, 2022",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=466578240204947101",
+        "serpapi_link": "https://serpapi.com/search.json?cites=466578240204947101&engine=google_scholar&hl=en",
+        "cites_id": "466578240204947101"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A comprehensive study of plant pest and disease detection using different computer vision techniques",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:e5wmG9Sq2KIC",
+      "citation_id": "KLDQnqUAAAAJ:e5wmG9Sq2KIC",
+      "authors": "C Parmar, N Kotak, V Sorathiya, SK Patel",
+      "publication": "Artificial Intelligence for Signal Processing and Wireless Communication 11 …, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16933281248505206645",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16933281248505206645&engine=google_scholar&hl=en",
+        "cites_id": "16933281248505206645"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Multi-layered graphene silica-metasurface based infrared polarizer structure",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KLDQnqUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=KLDQnqUAAAAJ:_Qo2XoVZTnwC",
+      "citation_id": "KLDQnqUAAAAJ:_Qo2XoVZTnwC",
+      "authors": "V Sorathiya, SK Patel, K Ahmed, SA Taya, S Das, C Murali Krishna",
+      "publication": "Optical and Quantum Electronics 54 (4), 254, 2022",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8165403835219708246",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8165403835219708246&engine=google_scholar&hl=en",
+        "cites_id": "8165403835219708246"
+      },
+      "year": "2022"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 2533,
+          "since_2020": 2482
+        }
+      },
+      {
+        "h_index": {
+          "all": 33,
+          "since_2020": 33
+        }
+      },
+      {
+        "i10_index": {
+          "all": 68,
+          "since_2020": 68
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2019,
+        "citations": 42
+      },
+      {
+        "year": 2020,
+        "citations": 99
+      },
+      {
+        "year": 2021,
+        "citations": 85
+      },
+      {
+        "year": 2022,
+        "citations": 364
+      },
+      {
+        "year": 2023,
+        "citations": 712
+      },
+      {
+        "year": 2024,
+        "citations": 662
+      },
+      {
+        "year": 2025,
+        "citations": 547
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=KLDQnqUAAAAJ",
+    "available": 6,
+    "not_available": 2
+  },
+  "co_authors": [
+    {
+      "name": "Dr Sunil Lavadiya (World's Top 2% Sci...",
+      "link": "https://scholar.google.com/citations?user=8rrO4iwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=8rrO4iwAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "8rrO4iwAAAAJ",
+      "affiliations": "Associate Professor and Researcher, Marwadi University",
+      "email": "Verified email at marwadieducation.edu.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8rrO4iwAAAAJ&citpid=4"
+    },
+    {
+      "name": "Ahmed Nabih Zaki Rashed",
+      "link": "https://scholar.google.com/citations?user=XEA2jPEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=XEA2jPEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "XEA2jPEAAAAJ",
+      "affiliations": "Menoufia university",
+      "email": "Verified email at el-eng.menofia.edu.eg",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XEA2jPEAAAAJ&citpid=4"
+    },
+    {
+      "name": "Shobhitkumar Kiritkumar Patel, SMIEE...",
+      "link": "https://scholar.google.com/citations?user=KM6XQGMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=KM6XQGMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "KM6XQGMAAAAJ",
+      "affiliations": "Professor, Marwadi University",
+      "email": "Verified email at marwadieducation.edu.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KM6XQGMAAAAJ&citpid=5"
+    },
+    {
+      "name": "Mahmoud M. A. Eid",
+      "link": "https://scholar.google.com/citations?user=PFt4MuMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=PFt4MuMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "PFt4MuMAAAAJ",
+      "affiliations": "Department of Electrical Engineering, College of Engineering, Taif University, Taif, Kingdom of",
+      "email": "Verified email at tu.edu.sa",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PFt4MuMAAAAJ&citpid=5"
+    },
+    {
+      "name": "Osama S. Faragallah",
+      "link": "https://scholar.google.com/citations?user=ePLY7FkAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ePLY7FkAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "ePLY7FkAAAAJ",
+      "affiliations": "Professor, College of. CS & IT, Taif University, Faculty of Electronic Eng., Menoufia University",
+      "email": "Verified email at tu.edu.sa",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ePLY7FkAAAAJ&citpid=1"
+    },
+    {
+      "name": "Dr. Sudipta Das",
+      "link": "https://scholar.google.com/citations?user=TDqHPMgAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=TDqHPMgAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "TDqHPMgAAAAJ",
+      "affiliations": "Professor, Electronics and Communication Engineering, IMPS College of Engg. and Technology",
+      "email": "Verified email at impscet.net",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TDqHPMgAAAAJ&citpid=4"
+    },
+    {
+      "name": "Dr. Zen A Sbeah",
+      "link": "https://scholar.google.com/citations?user=3XrereEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=3XrereEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "3XrereEAAAAJ",
+      "affiliations": "Post Doctral, Electronics and Communications Engineering, Parul University, Vadodara, Gujarat, India",
+      "email": "Verified email at paruluniversity.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3XrereEAAAAJ&citpid=3"
+    },
+    {
+      "name": "DR SHAIK HASANE AHAMMAD",
+      "link": "https://scholar.google.com/citations?user=hLKph6AAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=hLKph6AAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "hLKph6AAAAAJ",
+      "affiliations": "Associate Dean Research & Development",
+      "email": "Verified email at kluniversity.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hLKph6AAAAAJ&citpid=3"
+    },
+    {
+      "name": "Dr. Ammar Armghan - SMIEEE",
+      "link": "https://scholar.google.com/citations?user=Rs_ftV0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Rs_ftV0AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "Rs_ftV0AAAAJ",
+      "affiliations": "Associate Professor, Jouf University",
+      "email": "Verified email at ju.edu.sa",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Rs_ftV0AAAAJ&citpid=12"
+    },
+    {
+      "name": "Dr Vigneswaran Dhasarathan",
+      "link": "https://scholar.google.com/citations?user=8_SSgkYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=8_SSgkYAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "8_SSgkYAAAAJ",
+      "affiliations": "Assistant Professor (Sl.G), KPRIET, Coimbatore",
+      "email": "Verified email at kpriet.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8_SSgkYAAAAJ&citpid=2"
+    },
+    {
+      "name": "Nguyen Truong Khang (Ph.D.)",
+      "link": "https://scholar.google.com/citations?user=ttpEuMUAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ttpEuMUAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "ttpEuMUAAAAJ",
+      "affiliations": "Faculty of Information Technology, Van Lang University",
+      "email": "Verified email at vlu.edu.vn",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ttpEuMUAAAAJ&citpid=4"
+    },
+    {
+      "name": "Meshari Alsharari",
+      "link": "https://scholar.google.com/citations?user=k7VCpgEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=k7VCpgEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "k7VCpgEAAAAJ",
+      "affiliations": "Assistant Professor",
+      "email": "Verified email at ju.edu.sa",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Khaled Aliqab",
+      "link": "https://scholar.google.com/citations?user=WBjMvOEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=WBjMvOEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "WBjMvOEAAAAJ",
+      "affiliations": "Electrical Engineering Department, Jouf University",
+      "email": "Verified email at ju.edu.sa",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Walid El-Shafai (SMIEEE)",
+      "link": "https://scholar.google.com/citations?user=EiDmw3YAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=EiDmw3YAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "EiDmw3YAAAAJ",
+      "affiliations": "Senior Researcher at Prince Sultan University and Associate Professor at FEE, Menoufia University",
+      "email": "Verified email at el-eng.menofia.edu.eg",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EiDmw3YAAAAJ&citpid=4"
+    },
+    {
+      "name": "Trushit Upadhyaya",
+      "link": "https://scholar.google.com/citations?user=Gzsxo-oAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Gzsxo-oAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "Gzsxo-oAAAAJ",
+      "affiliations": "Professor, C S Patel Institute of Technology, Charotar University of Science & Technology",
+      "email": "Verified email at charusat.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gzsxo-oAAAAJ&citpid=4"
+    },
+    {
+      "name": "Upesh Patel",
+      "link": "https://scholar.google.com/citations?user=WNHbpVgAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=WNHbpVgAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "WNHbpVgAAAAJ",
+      "affiliations": "Associate Professor, Charotar University of Science and Technology",
+      "email": "Verified email at charusat.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WNHbpVgAAAAJ&citpid=6"
+    },
+    {
+      "name": "Diksha Chauhan",
+      "link": "https://scholar.google.com/citations?user=PQVYiy8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=PQVYiy8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "PQVYiy8AAAAJ",
+      "affiliations": "Assistant Professor, National Formosa University,Taiwan,PhD, Electronics & Communication Engineering",
+      "email": "Verified email at nfu.edu.tw",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PQVYiy8AAAAJ&citpid=6"
+    },
+    {
+      "name": "Ram Prakash Dwivedi",
+      "link": "https://scholar.google.com/citations?user=EMmYTHIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=EMmYTHIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "EMmYTHIAAAAJ",
+      "affiliations": "Associate Professor, Media & Film Studies, University of Delhi",
+      "email": "Verified email at globalculturz.org",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EMmYTHIAAAAJ&citpid=1"
+    },
+    {
+      "name": "Sayed Asaduzzaman",
+      "link": "https://scholar.google.com/citations?user=aCILm9wAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=aCILm9wAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "aCILm9wAAAAJ",
+      "affiliations": "Assistant Professor, Dept of CSE, Rangamati Science and Technology University",
+      "email": "Verified email at rmstu.edu.bd",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aCILm9wAAAAJ&citpid=7"
+    },
+    {
+      "name": "Dr. Hala S. El-Sayed",
+      "link": "https://scholar.google.com/citations?user=HtwcRXsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=HtwcRXsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+      "author_id": "HtwcRXsAAAAJ",
+      "affiliations": "Ass. Professor, Faculty of Engineering, Menoufia University",
+      "email": "Verified email at sh-eng.menofia.edu.eg",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HtwcRXsAAAAJ&citpid=1"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=KLDQnqUAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=100"
+  }
+}
