@@ -1,5 +1,5 @@
-const fs = require("fs").promises; // Use promises version of fs
-const fetch = require("node-fetch"); // Install with npm install node-fetch
+const fs = require("fs").promises;
+const fetch = require("node-fetch");
 require("dotenv").config();
 
 async function writeFile(apiUrl) {

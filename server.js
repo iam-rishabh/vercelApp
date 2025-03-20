@@ -1,50 +1,42 @@
 const express = require("express");
 const path = require("path");
-var cors = require("cors");
+const cors = require("cors");
 const fs = require("fs").promises;
 const { STORAGE_FILE, isExpired } = require("./scripts/checkExpiry");
 const { main } = require("./scripts/writeFile");
 
 const app = express();
 
-app.use(express.static(path.join(__dirname, "../client")));
+// Middleware
+app.use(cors()); // Enable CORS for all routes
 
-app.use((req, res, next) => {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader(
-    "Access-Control-Allow-Methods",
-    "GET, POST, DELETE, PUT, PATCH"
-  );
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
-  next();
+// Default route to redirect to /scholar
+app.get("/", (req, res) => {
+  res.redirect("/scholar"); // Redirects to /scholar page
 });
 
-app.get("/scholar", cors(), async (req, res) => {
-  const expired = await isExpired();
+// Route to serve data from /scholar
+app.get("/scholar", async (req, res) => {
   try {
-    // Check if data needs update
-    res.send("hi");
+    const expired = await isExpired();
+
     if (expired) {
-      await main();
-      //Update last fetch time after successful update
-      await fs.writeFile(STORAGE_FILE, new Date().toISOString());
-      //   }
-
-      //Send JSON response
-      const filePath = path.join(__dirname, "dataFile/scholar.json");
-      res.sendFile(filePath);
-    } else {
-      const filePath = path.join(__dirname, "dataFile/scholar.json");
-      res.sendFile(filePath);
+      await main(); // Update data if expired
+      await fs.writeFile(STORAGE_FILE, new Date().toISOString()); // Update timestamp
     }
-  } catch (error) {
-    //try
 
+    const filePath = path.join(__dirname, "dataFile/scholar.json");
+    res.sendFile(filePath); // Send JSON file as response
+  } catch (error) {
     console.error("Error:", error);
-    res.status(500).json({ error: "Failed to process request" });
+    res.status(500).json({ error: "Failed to process request" }); // Error response
   }
 });
 
-app.listen(() => {
-  console.log("Server is listening on http://localhost:5000");
+// Start the server
+const PORT = process.env.PORT || 5000; // Use environment variable or default port
+app.listen(PORT, () => {
+  console.log(`Server is listening on http://localhost:${PORT}`);
 });
+
+module.exports = app;
