@@ -9,6 +9,16 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, "../client")));
 
+app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader(
+    "Access-Control-Allow-Methods",
+    "GET, POST, DELETE, PUT, PATCH"
+  );
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type, Authorization");
+  next();
+});
+
 app.get("/scholar", cors(), async (req, res) => {
   const expired = await isExpired();
   try {
@@ -35,6 +45,6 @@ app.get("/scholar", cors(), async (req, res) => {
   }
 });
 
-app.listen(5000, () => {
+app.listen(() => {
   console.log("Server is listening on http://localhost:5000");
 });
