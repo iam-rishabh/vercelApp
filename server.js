@@ -13,6 +13,7 @@ app.get("/scholar", cors(), async (req, res) => {
   const expired = await isExpired();
   try {
     // Check if data needs update
+    res.send("hi");
     if (expired) {
       await main();
       //Update last fetch time after successful update
