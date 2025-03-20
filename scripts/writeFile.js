@@ -1,5 +1,6 @@
 const fs = require("fs").promises; // Use promises version of fs
 const fetch = require("node-fetch"); // Install with npm install node-fetch
+require("dotenv").config();
 
 async function writeFile(apiUrl) {
   try {
@@ -20,9 +21,9 @@ async function writeFile(apiUrl) {
   }
 }
 
+const ApiURL = process.env.apiURL;
 async function main() {
-  const apiUrl =
-    "https://serpapi.com/search.json?engine=google_scholar_author&author_id=KLDQnqUAAAAJ&hl=en&sort=pubdate&num=100&api_key=13944512df2402fc973a3f13efbbb5ea67fadc9f51498e3dc598e181371c1404";
+  const apiUrl = ApiURL;
 
   try {
     await writeFile(apiUrl);

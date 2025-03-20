@@ -1,3 +1,4 @@
-const { isExpired } = require("./scripts/checkExpiry");
+require("dotenv").config();
 
-console.log(isExpired);
+const ApiURL = process.env.apiURL;
+console.log(ApiURL);
