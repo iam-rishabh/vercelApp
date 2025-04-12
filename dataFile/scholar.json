@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "67da844cb0ff9d152aeea0bb",
+    "id": "67dfeb30beb2d1791995c2a0",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/81cd5a4658574d9d/67da844cb0ff9d152aeea0bb.json",
-    "created_at": "2025-03-19 08:46:04 UTC",
-    "processed_at": "2025-03-19 08:46:04 UTC",
+    "json_endpoint": "https://serpapi.com/searches/81cd5a4658574d9d/67dfeb30beb2d1791995c2a0.json",
+    "created_at": "2025-03-23 11:06:24 UTC",
+    "processed_at": "2025-03-23 11:06:24 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=KLDQnqUAAAAJ&hl=en&pagesize=100&sortby=pubdate",
-    "raw_html_file": "https://serpapi.com/searches/81cd5a4658574d9d/67da844cb0ff9d152aeea0bb.html",
-    "total_time_taken": 0.14
+    "raw_html_file": "https://serpapi.com/searches/81cd5a4658574d9d/67dfeb30beb2d1791995c2a0.html",
+    "total_time_taken": 1.14
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -524,7 +524,7 @@
       "authors": "K Pandya, T Upadhyaya, U Patel, V Sorathiya, A Pandya, AJA Al-Gburi, ...",
       "publication": "Results in Engineering 22, 102318, 2024",
       "cited_by": {
-        "value": 32,
+        "value": 33,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3316084651512729785",
         "serpapi_link": "https://serpapi.com/search.json?cites=3316084651512729785&engine=google_scholar&hl=en",
         "cites_id": "3316084651512729785"
@@ -704,7 +704,7 @@
       "authors": "JR Tadhani, V Vekariya, V Sorathiya, S Alshathri, W El-Shafai",
       "publication": "Scientific Reports 14 (1), 1803, 2024",
       "cited_by": {
-        "value": 24,
+        "value": 27,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=635972415872597056",
         "serpapi_link": "https://serpapi.com/search.json?cites=635972415872597056&engine=google_scholar&hl=en",
         "cites_id": "635972415872597056"
@@ -771,7 +771,7 @@
       "authors": "T Upadhyaya, V Sorathiya, S Al-Shathri, W El-Shafai, U Patel, KV Pandya, ...",
       "publication": "Scientific Reports 13 (1), 19088, 2023",
       "cited_by": {
-        "value": 28,
+        "value": 29,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11814059885782841289",
         "serpapi_link": "https://serpapi.com/search.json?cites=11814059885782841289&engine=google_scholar&hl=en",
         "cites_id": "11814059885782841289"
@@ -1154,7 +1154,7 @@
       "authors": "MG Daher, Y Trabelsi, NM Ahmed, YK Prajapati, V Sorathiya, ...",
       "publication": "Plasmonics 17 (6), 2365-2373, 2022",
       "cited_by": {
-        "value": 51,
+        "value": 53,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214910837858722021",
         "serpapi_link": "https://serpapi.com/search.json?cites=14214910837858722021&engine=google_scholar&hl=en",
         "cites_id": "14214910837858722021"
@@ -1350,7 +1350,7 @@
       "authors": "AG Alharbi, V Sorathiya, S Lavadiya",
       "publication": "Photonics 9 (5), 279, 2022",
       "cited_by": {
-        "value": 8,
+        "value": 9,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=466578240204947101",
         "serpapi_link": "https://serpapi.com/search.json?cites=466578240204947101&engine=google_scholar&hl=en",
         "cites_id": "466578240204947101"
@@ -1390,8 +1390,8 @@
     "table": [
       {
         "citations": {
-          "all": 2533,
-          "since_2020": 2482
+          "all": 2541,
+          "since_2020": 2490
         }
       },
       {
@@ -1422,11 +1422,11 @@
       },
       {
         "year": 2022,
-        "citations": 364
+        "citations": 343
       },
       {
         "year": 2023,
-        "citations": 712
+        "citations": 713
       },
       {
         "year": 2024,
@@ -1434,7 +1434,7 @@
       },
       {
         "year": 2025,
-        "citations": 547
+        "citations": 575
       }
     ]
   },

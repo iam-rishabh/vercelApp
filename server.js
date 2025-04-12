@@ -25,11 +25,18 @@ app.get("/scholar", async (req, res) => {
       await fs.writeFile(STORAGE_FILE, new Date().toISOString()); // Update timestamp
     }
 
-    const filePath = path.join(__dirname, "dataFile/scholar.json");
-    res.sendFile(filePath); // Send JSON file as response
+    const blobUrl =
+      "https://ze7fihovdvhau21g.public.blob.vercel-storage.com/scholar-jHE2AIN4MYpks4hEybpnQATFZ8zFBi.json"; // Replace with your blob URL
+    const response = await fetch(blobUrl);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const jsonData = await response.json();
+    res.json(jsonData); // Send JSON data as response
   } catch (error) {
     console.error("Error:", error);
-    res.status(500).json({ error: "Failed to process request" }); // Error response
+    res.status(500).json({ error: "Failed to process request" }); //
   }
 });
 

@@ -1,6 +1,7 @@
-const fs = require("fs").promises;
 const fetch = require("node-fetch");
-require("dotenv").config();
+const dotenv = require("dotenv");
+const { put } = require("@vercel/blob");
+dotenv.config();
 
 async function writeFile(apiUrl) {
   try {
@@ -13,15 +14,20 @@ async function writeFile(apiUrl) {
     const data = await response.json();
     const jsonString = JSON.stringify(data, null, 2);
 
-    // Write data to file
-    await fs.writeFile("./dataFile/scholar.json", jsonString);
-    console.log("Write Successful");
+    // Upload data to Vercel Blob storage
+    const blob = await put("data.json", jsonString, {
+      access: "public", // Make the blob publicly accessible
+      contentType: "application/json", // Specify content type
+    });
+
+    console.log("Write Successful:", blob.url);
   } catch (error) {
     console.error("Error:", error);
   }
 }
 
 const ApiURL = process.env.apiURL;
+
 async function main() {
   const apiUrl = ApiURL;
 
