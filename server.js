@@ -1,12 +1,14 @@
 const express = require("express");
-const path = require("path");
 const cors = require("cors");
 const fs = require("fs").promises;
 const { STORAGE_FILE, isExpired } = require("./scripts/checkExpiry");
 const { main } = require("./scripts/writeFile");
+const dotenv = require("dotenv");
+const fetch = require("node-fetch");
+dotenv.config();
 
 const app = express();
-
+const blobStorage = process.env.blobUrl;
 // Middleware
 app.use(cors()); // Enable CORS for all routes
 
@@ -24,16 +26,16 @@ app.get("/scholar", async (req, res) => {
       await main(); // Update data if expired
       await fs.writeFile(STORAGE_FILE, new Date().toISOString()); // Update timestamp
     }
+    const response = await fetch(blobStorage);
 
-    const blobUrl =
-      "https://ze7fihovdvhau21g.public.blob.vercel-storage.com/scholar-jHE2AIN4MYpks4hEybpnQATFZ8zFBi.json"; // Replace with your blob URL
-    const response = await fetch(blobUrl);
     if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
+      throw new Error(
+        `Failed to fetch blob data. HTTP status: ${response.status}`
+      );
     }
 
-    const jsonData = await response.json();
-    res.json(jsonData); // Send JSON data as response
+    const blobData = await response.json();
+    res.json(blobData); // Send JSON data as response
   } catch (error) {
     console.error("Error:", error);
     res.status(500).json({ error: "Failed to process request" }); //

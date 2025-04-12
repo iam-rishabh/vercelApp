@@ -14,10 +14,14 @@ async function writeFile(apiUrl) {
     const data = await response.json();
     const jsonString = JSON.stringify(data, null, 2);
 
+    const blobStorage = process.env.blobPath;
+    const blobUrl = process.env.BLOB_READ_WRITE_TOKEN;
     // Upload data to Vercel Blob storage
-    const blob = await put("data.json", jsonString, {
-      access: "public", // Make the blob publicly accessible
-      contentType: "application/json", // Specify content type
+    const blob = await put(blobStorage, jsonString, {
+      access: "public",
+      contentType: "application/json",
+      allowOverwrite: true,
+      token: blobUrl,
     });
 
     console.log("Write Successful:", blob.url);
