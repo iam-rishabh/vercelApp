@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const fs = require("fs").promises;
-const { STORAGE_FILE, isExpired } = require("./scripts/checkExpiry");
+const { isExpired } = require("./scripts/checkExpiry");
 const { main } = require("./scripts/writeFile");
 const dotenv = require("dotenv");
 const fetch = require("node-fetch");
@@ -14,7 +14,7 @@ app.use(cors()); // Enable CORS for all routes
 
 // Default route to redirect to /scholar
 app.get("/", (req, res) => {
-  res.redirect("/scholar"); // Redirects to /scholar page
+  res.redirect("/scholar");
 });
 
 // Route to serve data from /scholar
@@ -24,7 +24,13 @@ app.get("/scholar", async (req, res) => {
 
     if (expired) {
       await main(); // Update data if expired
-      await fs.writeFile(STORAGE_FILE, new Date().toISOString()); // Update timestamp
+      await fetch(process.env.expiryFileUrl, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "text/plain",
+        },
+        body: new Date().toISOString(),
+      });
     }
     const response = await fetch(blobStorage);
 
