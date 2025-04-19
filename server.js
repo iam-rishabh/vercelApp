@@ -1,10 +1,10 @@
 const express = require("express");
 const cors = require("cors");
-const fs = require("fs").promises;
 const { isExpired } = require("./scripts/checkExpiry");
 const { main } = require("./scripts/writeFile");
 const dotenv = require("dotenv");
 const fetch = require("node-fetch");
+const { put } = require("@vercel/blob");
 dotenv.config();
 
 const app = express();
@@ -24,12 +24,10 @@ app.get("/scholar", async (req, res) => {
 
     if (expired) {
       await main(); // Update data if expired
-      await fetch(process.env.expiryFileUrl, {
-        method: "PUT",
-        headers: {
-          "Content-Type": "text/plain",
-        },
-        body: new Date().toISOString(),
+      await put(process.env.expiryFilePath, new Date().toISOString(), {
+        access: "public",
+        contentType: "text/plain",
+        allowOverwrite: true,
       });
     }
     const response = await fetch(blobStorage);
